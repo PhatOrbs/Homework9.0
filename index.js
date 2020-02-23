@@ -56,11 +56,28 @@ const questions = [
     }
 ];
 
-function writeToFile(fileName, data) {
+function writeToFile(response, userObj) {
+    var markdown = generateMarkdown(response, userObj)
+    fs.writeFile("README.md", markdown, function (err) {
+        if (err) {
+            return console.log(err);
+        }
+        console.log("Success!");
+    });
 }
 
 function init() {
-
+    inquirer.prompt(questions).then(function (data) {
+        var response = data;
+        const usernameUrl = `https://api.github.com/users/${data.username}`
+        axios.get(usernameUrl).then(function (res) {
+            writeToFile(response, res.data)
+        }).catch(function (err) {
+            console.log(err);
+        }).then(function () {
+            console.log("Thank you for using README.MD GENERATOR");
+        });
+    })
 }
 
 init();
