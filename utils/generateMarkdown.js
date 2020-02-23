@@ -14,6 +14,7 @@ function generateMarkdown(response, user) {
   * Bio: ${user.bio}\n
   ## Description \n
   :cake: ${response.description}\n
+  ![Readme Demo](/utils/readme_video.gif)\n
   ## Table of Contents \n
   * [Installation](#installation) \n
   * [Usage](#usage) \n

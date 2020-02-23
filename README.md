@@ -25,6 +25,12 @@
 
   :cake: Following a prompt from the Terminal command line and based off of user input, generate a readme.md using information from the users Github.
 
+
+
+  ![Readme Demo](/utils/readme_video.gif)
+
+  :trollface:
+
   ## Table of Contents 
 
   * [Installation](#installation) 
