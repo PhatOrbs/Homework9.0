@@ -3,6 +3,17 @@ const fs = require("fs");
 const axios = require("axios");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+console.log(
+    `\n
+    -----------------------------------
+    \n
+    ========README.MD GENERATOR========     
+    \n
+    -----------------------------------
+    \n
+    `
+)
+
 const questions = [
     {
         type: "input",
