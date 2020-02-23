@@ -1,8 +1,8 @@
 function generateMarkdown(response, user) {
   return `
   \n
-  ![badge](https://https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
-  ![badge](https://https://img.shields.io/badge/build-passing-blueviolet)
+  ![badge](https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
+  ![badge](https://img.shields.io/badge/build-passing-blueviolet)
   \n
   # ${response.project}\n
   ## Contributors:\n
@@ -14,7 +14,7 @@ function generateMarkdown(response, user) {
   ## Description \n
   :cake: ${response.description}\n
   ## Table of Contents \n
-  * [installation](#installation) \n
+  * [Installation](#installation) \n
   * [Usage](#usage) \n
   * [Contributors](#contributors) \n
   * [License](#license) \n

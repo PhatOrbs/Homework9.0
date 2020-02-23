@@ -1,8 +1,8 @@
 
   
 
-  ![badge](https://https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
-  ![badge](https://https://img.shields.io/badge/build-passing-blueviolet)
+  ![badge](https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
+  ![badge](https://img.shields.io/badge/build-passing-blueviolet)
   
 
   # README.md Generator
@@ -25,7 +25,7 @@
 
   ## Table of Contents 
 
-  * [installation](#installation) 
+  * [Installation](#installation) 
 
   * [Usage](#usage) 
 
@@ -39,7 +39,7 @@
 
   ## Installation 
 
-  first npm install into the directory, then to run it, input node index.js 
+  First npm install into the directory, then to run it, input node index.js 
 
   ## Usage 
 
@@ -55,7 +55,7 @@
 
   ## Contributing 
 
-  :scorpion: I want to add more badges and categories, as well as a gif uploader for the project 
+  :scorpion: N/A 
 
   ## Tests 
 
@@ -63,7 +63,7 @@
 
   ## Questions 
 
-  N/A 
+  I want to add more badges and categories, as well as a gif uploader for the project 
 
   :key: :key: :key: :key: :key: 
 
