@@ -10,6 +10,7 @@ function generateMarkdown(response, user) {
   ${user.name}\n
   * Github Username: :pizza: ${response.username}\n
   * Location: ${user.location}\n
+  * Email: ${response.email} \n
   * Bio: ${user.bio}\n
   ## Description \n
   :cake: ${response.description}\n
