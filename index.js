@@ -58,7 +58,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Add some guidlines for those who want to continue contributing to your project: "
+        message: "Add some guidelines for those who want to continue contributing to your project: "
     },
     {
         type: "input",
