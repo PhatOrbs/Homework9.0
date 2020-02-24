@@ -7,7 +7,7 @@
   ![badge](https://img.shields.io/badge/build-passing-blueviolet)
   
 
-  # README.md Generator
+  # :zap: README.md Generator :zap:
 
   ## Contributors:
 
