@@ -1,6 +1,8 @@
 
   
 
+  ![badge](https://img.shields.io/github/languages/count/PhatOrbs/Homework9.0)
+  ![badge](https://img.shields.io/github/languages/top/PhatOrbs/Homework9.0)
   ![badge](https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
   ![badge](https://img.shields.io/badge/build-passing-blueviolet)
   
@@ -25,11 +27,7 @@
 
   :cake: Following a prompt from the Terminal command line and based off of user input, generate a readme.md using information from the users Github.
 
-
-
   ![Readme Demo](/utils/readme_video.gif)
-
-  :trollface:
 
   ## Table of Contents 
 
@@ -71,7 +69,7 @@
 
   ## Questions 
 
-  I want to add more badges and categories, as well as a gif uploader for the project. 
+  I want to add more badges and categories, as well as a gif uploader for the project.  
 
   :key: :key: :key: :key: :key: 
 
